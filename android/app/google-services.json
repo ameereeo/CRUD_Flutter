@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "447485301437",
+    "project_id": "ameereeo",
+    "storage_bucket": "ameereeo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:447485301437:android:ae96d97d5b27a9497fddd4",
+        "android_client_info": {
+          "package_name": "com.hamza.ameereeo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "447485301437-5ivj4mpgbgelgjg8b9jmlfdo8nnsld2t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5WJsfdFiX8cg4alaj1DveNv61oG1DAK0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "447485301437-5ivj4mpgbgelgjg8b9jmlfdo8nnsld2t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
